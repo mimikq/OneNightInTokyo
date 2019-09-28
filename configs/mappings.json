@@ -1,0 +1,443 @@
+{
+    "areas": [
+        {
+            "geofence_excluded": null,
+            "geofence_included": "configs/geofences/tokyo_0.txt",
+            "init": false,
+            "level": true,
+            "mode": "pokestops",
+            "name": "tokyo_0",
+            "route_calc_algorithm": "optimized",
+            "routecalc": "tokyo_0",
+            "settings": {}
+        },
+        {
+            "geofence_excluded": null,
+            "geofence_included": "configs/geofences/tokyo_1.txt",
+            "init": false,
+            "level": true,
+            "mode": "pokestops",
+            "name": "tokyo_1",
+            "route_calc_algorithm": "optimized",
+            "routecalc": "tokyo_1",
+            "settings": {}
+        },
+        {
+            "geofence_excluded": null,
+            "geofence_included": "configs/geofences/tokyo_2.txt",
+            "init": false,
+            "level": true,
+            "mode": "pokestops",
+            "name": "tokyo_2",
+            "route_calc_algorithm": "optimized",
+            "routecalc": "tokyo_2",
+            "settings": {}
+        },
+        {
+            "geofence_excluded": null,
+            "geofence_included": "configs/geofences/tokyo_3.txt",
+            "init": false,
+            "level": true,
+            "mode": "pokestops",
+            "name": "tokyo_3",
+            "route_calc_algorithm": "optimized",
+            "routecalc": "tokyo_3",
+            "settings": {}
+        },
+        {
+            "geofence_excluded": null,
+            "geofence_included": "configs/geofences/tokyo_4.txt",
+            "init": false,
+            "level": true,
+            "mode": "pokestops",
+            "name": "tokyo_4",
+            "route_calc_algorithm": "optimized",
+            "routecalc": "tokyo_4",
+            "settings": {}
+        },
+        {
+            "geofence_excluded": null,
+            "geofence_included": "configs/geofences/tokyo_5.txt",
+            "init": false,
+            "level": true,
+            "mode": "pokestops",
+            "name": "tokyo_5",
+            "route_calc_algorithm": "optimized",
+            "routecalc": "tokyo_5",
+            "settings": {}
+        },
+        {
+            "geofence_excluded": null,
+            "geofence_included": "configs/geofences/tokyo_6.txt",
+            "init": false,
+            "level": true,
+            "mode": "pokestops",
+            "name": "tokyo_6",
+            "route_calc_algorithm": "optimized",
+            "routecalc": "tokyo_6",
+            "settings": {}
+        },
+        {
+            "geofence_excluded": null,
+            "geofence_included": "configs/geofences/tokyo_7.txt",
+            "init": false,
+            "level": true,
+            "mode": "pokestops",
+            "name": "tokyo_7",
+            "route_calc_algorithm": "optimized",
+            "routecalc": "tokyo_7",
+            "settings": {}
+        },
+        {
+            "geofence_excluded": null,
+            "geofence_included": "configs/geofences/tokyo_8.txt",
+            "init": false,
+            "level": true,
+            "mode": "pokestops",
+            "name": "tokyo_8",
+            "route_calc_algorithm": "optimized",
+            "routecalc": "tokyo_8",
+            "settings": {}
+        },
+        {
+            "geofence_excluded": null,
+            "geofence_included": "configs/geofences/tokyo_9.txt",
+            "init": false,
+            "level": true,
+            "mode": "pokestops",
+            "name": "tokyo_9",
+            "route_calc_algorithm": "optimized",
+            "routecalc": "tokyo_9",
+            "settings": {}
+        },
+        {
+            "geofence_excluded": null,
+            "geofence_included": "configs/geofences/tokyo_10.txt",
+            "init": false,
+            "level": true,
+            "mode": "pokestops",
+            "name": "tokyo_10",
+            "route_calc_algorithm": "optimized",
+            "routecalc": "tokyo_10",
+            "settings": {}
+        },
+        {
+            "geofence_excluded": null,
+            "geofence_included": "configs/geofences/tokyo_11.txt",
+            "init": false,
+            "level": true,
+            "mode": "pokestops",
+            "name": "tokyo_11",
+            "route_calc_algorithm": "optimized",
+            "routecalc": "tokyo_11",
+            "settings": {}
+        },
+        {
+            "geofence_excluded": null,
+            "geofence_included": "configs/geofences/tokyo_12.txt",
+            "init": false,
+            "level": true,
+            "mode": "pokestops",
+            "name": "tokyo_12",
+            "route_calc_algorithm": "optimized",
+            "routecalc": "tokyo_12",
+            "settings": {}
+        },
+        {
+            "geofence_excluded": null,
+            "geofence_included": "configs/geofences/tokyo_13.txt",
+            "init": false,
+            "level": true,
+            "mode": "pokestops",
+            "name": "tokyo_13",
+            "route_calc_algorithm": "optimized",
+            "routecalc": "tokyo_13",
+            "settings": {}
+        },
+        {
+            "geofence_excluded": null,
+            "geofence_included": "configs/geofences/tokyo_14.txt",
+            "init": false,
+            "level": true,
+            "mode": "pokestops",
+            "name": "tokyo_14",
+            "route_calc_algorithm": "optimized",
+            "routecalc": "tokyo_14",
+            "settings": {}
+        },
+        {
+            "geofence_excluded": null,
+            "geofence_included": "configs/geofences/tokyo_15.txt",
+            "init": false,
+            "level": true,
+            "mode": "pokestops",
+            "name": "tokyo_15",
+            "route_calc_algorithm": "optimized",
+            "routecalc": "tokyo_15",
+            "settings": {}
+        },
+        {
+            "geofence_excluded": null,
+            "geofence_included": "configs/geofences/tokyo_16.txt",
+            "init": false,
+            "level": true,
+            "mode": "pokestops",
+            "name": "tokyo_16",
+            "route_calc_algorithm": "optimized",
+            "routecalc": "tokyo_16",
+            "settings": {}
+        },
+        {
+            "geofence_excluded": null,
+            "geofence_included": "configs/geofences/tokyo_17.txt",
+            "init": false,
+            "level": true,
+            "mode": "pokestops",
+            "name": "tokyo_17",
+            "route_calc_algorithm": "optimized",
+            "routecalc": "tokyo_17",
+            "settings": {}
+        },
+        {
+            "geofence_excluded": null,
+            "geofence_included": "configs/geofences/tokyo_18.txt",
+            "init": false,
+            "level": true,
+            "mode": "pokestops",
+            "name": "tokyo_18",
+            "route_calc_algorithm": "optimized",
+            "routecalc": "tokyo_18",
+            "settings": {}
+        },
+        {
+            "geofence_excluded": null,
+            "geofence_included": "configs/geofences/tokyo_19.txt",
+            "init": false,
+            "level": true,
+            "mode": "pokestops",
+            "name": "tokyo_19",
+            "route_calc_algorithm": "optimized",
+            "routecalc": "tokyo_19",
+            "settings": {}
+        },
+        {
+            "geofence_excluded": null,
+            "geofence_included": "configs/geofences/tokyo_20.txt",
+            "init": false,
+            "level": true,
+            "mode": "pokestops",
+            "name": "tokyo_20",
+            "route_calc_algorithm": "optimized",
+            "routecalc": "tokyo_20",
+            "settings": {}
+        },
+        {
+            "geofence_excluded": null,
+            "geofence_included": "configs/geofences/tokyo_21.txt",
+            "init": false,
+            "level": true,
+            "mode": "pokestops",
+            "name": "tokyo_21",
+            "route_calc_algorithm": "optimized",
+            "routecalc": "tokyo_21",
+            "settings": {}
+        },
+        {
+            "geofence_excluded": null,
+            "geofence_included": "configs/geofences/tokyo_22.txt",
+            "init": false,
+            "level": true,
+            "mode": "pokestops",
+            "name": "tokyo_22",
+            "route_calc_algorithm": "optimized",
+            "routecalc": "tokyo_22",
+            "settings": {}
+        }
+    ],
+    "auth": [],
+    "devices": [],
+    "devicesettings": [
+        {
+            "devicepool": "level_settings",
+            "settings": {
+                "cool_down_sleep": false,
+                "post_teleport_delay": 21,
+                "post_walk_delay": 7,
+                "reboot": false,
+                "restart_pogo": 500,
+                "route_calc_algorithm": "quick",
+                "screenshot_type": "jpeg",
+                "walk_after_teleport_distance": 5
+            }
+        }
+    ],
+    "monivlist": [],
+    "walker": [
+        {
+            "setup": [
+                {
+                    "walkerarea": "tokyo_0",
+                    "walkermax": "",
+                    "walkertext": "",
+                    "walkertype": "coords",
+                    "walkervalue": ""
+                },
+                {
+                    "walkerarea": "tokyo_1",
+                    "walkermax": "",
+                    "walkertext": "",
+                    "walkertype": "coords",
+                    "walkervalue": ""
+                },
+                {
+                    "walkerarea": "tokyo_2",
+                    "walkermax": "",
+                    "walkertext": "",
+                    "walkertype": "coords",
+                    "walkervalue": ""
+                },
+                {
+                    "walkerarea": "tokyo_3",
+                    "walkermax": "",
+                    "walkertext": "",
+                    "walkertype": "coords",
+                    "walkervalue": ""
+                },
+                {
+                    "walkerarea": "tokyo_4",
+                    "walkermax": "",
+                    "walkertext": "",
+                    "walkertype": "coords",
+                    "walkervalue": ""
+                },
+                {
+                    "walkerarea": "tokyo_5",
+                    "walkermax": "",
+                    "walkertext": "",
+                    "walkertype": "coords",
+                    "walkervalue": ""
+                },
+                {
+                    "walkerarea": "tokyo_6",
+                    "walkermax": "",
+                    "walkertext": "",
+                    "walkertype": "coords",
+                    "walkervalue": ""
+                },
+                {
+                    "walkerarea": "tokyo_7",
+                    "walkermax": "",
+                    "walkertext": "",
+                    "walkertype": "coords",
+                    "walkervalue": ""
+                },
+                {
+                    "walkerarea": "tokyo_8",
+                    "walkermax": "",
+                    "walkertext": "",
+                    "walkertype": "coords",
+                    "walkervalue": ""
+                },
+                {
+                    "walkerarea": "tokyo_9",
+                    "walkermax": "",
+                    "walkertext": "",
+                    "walkertype": "coords",
+                    "walkervalue": ""
+                },
+                {
+                    "walkerarea": "tokyo_10",
+                    "walkermax": "",
+                    "walkertext": "",
+                    "walkertype": "coords",
+                    "walkervalue": ""
+                },
+                {
+                    "walkerarea": "tokyo_11",
+                    "walkermax": "",
+                    "walkertext": "",
+                    "walkertype": "coords",
+                    "walkervalue": ""
+                },
+                {
+                    "walkerarea": "tokyo_12",
+                    "walkermax": "",
+                    "walkertext": "",
+                    "walkertype": "coords",
+                    "walkervalue": ""
+                },
+                {
+                    "walkerarea": "tokyo_13",
+                    "walkermax": "",
+                    "walkertext": "",
+                    "walkertype": "coords",
+                    "walkervalue": ""
+                },
+                {
+                    "walkerarea": "tokyo_14",
+                    "walkermax": "",
+                    "walkertext": "",
+                    "walkertype": "coords",
+                    "walkervalue": ""
+                },
+                {
+                    "walkerarea": "tokyo_15",
+                    "walkermax": "",
+                    "walkertext": "",
+                    "walkertype": "coords",
+                    "walkervalue": ""
+                },
+                {
+                    "walkerarea": "tokyo_16",
+                    "walkermax": "",
+                    "walkertext": "",
+                    "walkertype": "coords",
+                    "walkervalue": ""
+                },
+                {
+                    "walkerarea": "tokyo_17",
+                    "walkermax": "",
+                    "walkertext": "",
+                    "walkertype": "coords",
+                    "walkervalue": ""
+                },
+                {
+                    "walkerarea": "tokyo_18",
+                    "walkermax": "",
+                    "walkertext": "",
+                    "walkertype": "coords",
+                    "walkervalue": ""
+                },
+                {
+                    "walkerarea": "tokyo_19",
+                    "walkermax": "",
+                    "walkertext": "",
+                    "walkertype": "coords",
+                    "walkervalue": ""
+                },
+                {
+                    "walkerarea": "tokyo_20",
+                    "walkermax": "",
+                    "walkertext": "",
+                    "walkertype": "coords",
+                    "walkervalue": ""
+                },
+                {
+                    "walkerarea": "tokyo_21",
+                    "walkermax": "",
+                    "walkertext": "",
+                    "walkertype": "coords",
+                    "walkervalue": ""
+                },
+                {
+                    "walkerarea": "tokyo_22",
+                    "walkermax": "",
+                    "walkertext": "",
+                    "walkertype": "coords",
+                    "walkervalue": ""
+                }
+            ],
+            "walkername": "tokyowalker"
+        }
+    ]
+}
